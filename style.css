@@ -1,0 +1,53 @@
+body {
+	background-color:#E0F8EC;
+	font-family:verdana;
+}
+
+* {
+	color:black;
+}
+
+header {
+	font-family:verdana;
+	border:solid black 2px;
+	text-align:center;
+	margin: 20px;
+}
+
+#notheader {
+	margin:35px;
+}
+
+h2 {
+	font-family:verdana;
+	color:#424242;
+	margin:1px;
+}
+
+#contactinfo {
+	font-family:andale mono, verdana;
+	line-height:60%;
+	padding:3px;
+	margin: 3px;
+
+}
+
+li {
+	font-style:italic;
+}
+
+#contactinfo:hover {
+	background-color:yellow;
+}
+
+.years {
+	color:#6E6E6E;
+}
+
+a {
+	text-decoration:none;
+}
+
+a:hover {
+	text-decoration:underline;
+}
